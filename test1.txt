@@ -1,2 +1,6 @@
 test1
+<<<<<<< .merge_file_a13712
 test3.1
+=======
+test2.1
+>>>>>>> .merge_file_a08480
